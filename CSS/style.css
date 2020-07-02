@@ -1,0 +1,88 @@
+.itemsppr{
+	font-family: 'Dancing Script', cursive;
+	text-align:center;
+	 text-shadow: 2px 0 #232931;
+	 font-size:50px;
+}
+#reset{
+	display:none;
+	text-align:center;
+	text-shadow: 2px 0 #232931;
+	font-color:yellow;
+	border: 2px black solid;
+	margin: -10px auto ;
+	padding-top:0px;
+	height:20px;
+	width:80px;
+	background:linear-gradient(180deg,skyblue,hotpink);
+}
+#reset:hover{
+	color:red;
+}
+.itemsstn{
+	font-family: 'Dancing Script', cursive;
+	text-align:center;
+	 text-shadow: 2px 0 #232931;
+	 font-size:50px;
+}
+.itemsssr{
+	font-family: 'Dancing Script', cursive;
+	text-align:center;
+	 text-shadow: 2px 0 #232931;
+	 font-size:50px;
+}
+.heading{
+	font-size:150px;
+	text-align:center;
+	padding-top:0px;
+	margin-top:0px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	text-shadow: 5px 0 #232931;
+}
+.header{
+	font-size:100px;
+	text-align:center;
+	padding-top:0px;
+	margin-top:0px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	text-shadow: 5px 0 #232931;
+}
+html{
+	background:linear-gradient(180deg,skyblue,hotpink);
+}
+body{
+	height:100vh;
+
+}
+#sps{
+	padding-top:0px;
+	display:flex;
+	justify-content:center;
+}
+#papers{
+	padding-top:0px;
+	padding-bottom:10px;
+	padding-right:70px;
+	padding-left:70px;
+}
+#stones{
+		padding-top:0px;
+	padding-bottom:10px;
+	padding-right:70px;
+	padding-left:70px;
+}
+#scissor{
+		padding-top:0px;
+	padding-bottom:10px;
+	padding-right:70px;
+	padding-left:70px;
+}
+img{
+	transform:scale(1.4);
+}
+footer{
+	padding-top:40px;
+	text-align:center;
+}
